@@ -22,7 +22,7 @@
       "id": "3",
       "name": "Donkey Kong",
       "release_year": "1999",
-      "description": "Lots of item collecting in this classic game"
+      "about": "Lots of item collecting in this classic game"
     }
   ],
   "users": [
@@ -31,7 +31,7 @@
       "@type": "Person",
       "id": "1",
       "name": "Timmy",
-      "description": "Favorite game is Super Smash Brothers",
+      "about": "Favorite game is Super Smash Brothers",
       "itemId": "1"
     },
     {
@@ -39,7 +39,7 @@
       "@type": "Person",
       "id": "2",
       "name": "user 2",
-      "description": "Favorite game is Donkey Kong",
+      "about": "Favorite game is Donkey Kong",
       "itemId": "3"
     }
   ],
