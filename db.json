@@ -31,7 +31,7 @@
       "@type": "Person",
       "id": "1",
       "name": "Timmy",
-      "about": "Favorite game is Super Smash Brothers",
+      "description": "Favorite game is Super Smash Brothers",
       "itemId": "1"
     },
     {
@@ -39,7 +39,7 @@
       "@type": "Person",
       "id": "2",
       "name": "user 2",
-      "about": "Favorite game is Donkey Kong",
+      "description": "Favorite game is Donkey Kong",
       "itemId": "3"
     }
   ],
