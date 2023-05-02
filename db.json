@@ -21,7 +21,7 @@
       "@type": "n64",
       "id": "3",
       "name": "Donkey Kong",
-      "release_year": "1999"
+      "release_year": "1999",
       "description": "Lots of item collecting in this classic game"
     }
   ],
@@ -31,7 +31,7 @@
       "@type": "Person",
       "id": "1",
       "name": "Timmy",
-      "purchased_game": "Super Smash Brothers",
+      "description": "Favorite game is Super Smash Brothers",
       "itemId": "1"
     },
     {
@@ -39,7 +39,7 @@
       "@type": "Person",
       "id": "2",
       "name": "user 2",
-      "purchased_game": "Donkey Kong",
+      "description": "Favorite game is Donkey Kong",
       "itemId": "3"
     }
   ],
